@@ -1,0 +1,21 @@
+{
+    "name": "Septik",
+    "displayName": "Septik",
+    "description": "Just another aesthetically pleasing Colour Theme to add to your list.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Septik",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Septik-color-theme.json"
+            }
+        ]
+    }
+}
